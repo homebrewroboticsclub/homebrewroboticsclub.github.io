@@ -66,7 +66,7 @@ Big Tech has monopolized robotics development for too long. We believe:
 
 ## 🚀 Get Involved  
 
-💻 **[GitHub Repository](#)** – Contribute code, test features, or improve documentation.  
+💻 **[GitHub Repository](https://github.com/homebrewroboticsclub)** – Contribute code, test features, or improve documentation.  
 💬 **[Join the Discussion](https://discord.gg/homebrewrobots)** – Talk with developers & robotics enthusiasts.  
 📢 **[Follow Us on X (Twitter)](https://twitter.com/homebrewrobots)** – Stay updated with our latest breakthroughs.  
 
